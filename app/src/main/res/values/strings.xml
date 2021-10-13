@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New Admob SDK</string>
+
+    <string name="ad_attribution">AD</string>
+    <string name="splash_activity_text">Splash Screen</string>
+    <string name="splash_activity_image_text">dd</string>
+
+    <string name="test_key">10a88bc9d</string>
+</resources>
